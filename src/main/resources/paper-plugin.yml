@@ -1,0 +1,4 @@
+name: Argus
+version: '0.0.1'
+main: me.axeno.argus.Argus
+api-version: '1.21'
